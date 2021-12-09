@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @joelongwh, a final year student pursuing a Bachelor's degree in Science, Pharmacy at the National University of Singapore
-- 👀 I’m interested in tech in the healthcare and finance space
-- 🌱 I’m currently learning basic python, statistics and data visualization techniques
-- 💞️ I’m looking to collaborate on any projects within the healthcare and finance space
-- 📫 You can reach me at joel_ong@u.nus.edu
+- Hi, I’m Joel Ong, a final year student pursuing a Bachelor's degree in Science, Pharmacy at the National University of Singapore
+- I’m interested in exploring how the adoption of tech can benefit the healthcare, pheamceutical and medtech industry
+- I spend most of my time tinkering with python and its associated libraries to perform data analysis on large datasets 
+- I would love to collaborate on any projects within the healthcare, pharmaceutical and medtech space
+- Feel free to reach me at joel_ong@u.nus.edu
 
 <!---
 joelongwh/joelongwh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

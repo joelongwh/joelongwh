@@ -1,4 +1,4 @@
-- Hi, I’m Joel Ong, a software development trainee at FDM Group 
+- Hi, I’m Joel Ong, a software engineer at ANZ Bank
 - I have experience with Test Driven Development using JUnit and Mockito while incorporating SOLID design principles and common design patterns
 - I am familiar with documentation using JavaDoc and logging using Log4j
 - I am also well versed with Java Database Connectivity (JDBC) and Java Persistence API (JPA) with Hibernate

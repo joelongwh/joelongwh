@@ -1,4 +1,4 @@
-- Some of the cool stuff I have built thus far
+Some of the cool stuff I have built thus far
 
 <!---
 joelongwh/joelongwh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
